@@ -9,7 +9,6 @@ namespace PartsUnlimited.Models
     // My frist 
     // Segundo Cambio
     // Prueba en rama release
-    // Prueba de 
     public class CartItem
     {
         [Key]
