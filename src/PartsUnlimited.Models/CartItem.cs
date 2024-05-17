@@ -10,6 +10,7 @@ namespace PartsUnlimited.Models
     // Segundo Cambio
     // Prueba en rama release
     // Cambio local vs dev
+
     public class CartItem
     {
         [Key]
